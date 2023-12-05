@@ -1,4 +1,8 @@
-# TrabajoFinalPOOcomisionMiercoles
+# Trabajo Final POO:
+Microservicio, simula transacciones a un banco ficticio.
+Permite realizar el registro de nuevos clientes.
+Enviar email a sus clientes.
+Descargar un Excel el cual contiene el resumen de todas las transacciones de un cliente.
 
 
 
